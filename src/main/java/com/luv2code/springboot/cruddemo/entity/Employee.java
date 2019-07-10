@@ -11,6 +11,7 @@ import javax.persistence.*;
 public class Employee {
 
     // auto-generate id
+    @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "id")
     private int id;
