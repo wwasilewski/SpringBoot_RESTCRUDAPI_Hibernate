@@ -1,4 +1,4 @@
-package com.luv2code.springboot.cruddemo.rest;
+package com.luv2code.springboot.cruddemo.controller;
 
 import com.luv2code.springboot.cruddemo.entity.Employee;
 import com.luv2code.springboot.cruddemo.service.EmployeeService;
